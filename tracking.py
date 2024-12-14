@@ -12,8 +12,8 @@ def request_message_interval():
 
 def get_alt():
 def takeoff(alt: float):
-def trigger_yaw_thread(angle_distance: int = 0)
-def trigger_distance_thread()
+def trigger_yaw_thread(angle_distance: int = 0):
+def trigger_distance_thread():
 
 
 while main_event.is_set():
